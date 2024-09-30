@@ -1,0 +1,50 @@
+#divScore {
+  display: block;
+  width: 200px;
+  margin: 0 auto;
+  font-size: 20px;
+  text-align: center;
+}
+
+.gameTable {
+  margin: 0 auto;
+}
+
+.blockOff {
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  border: 1px solid black;
+  margin-right: 1px;
+  margin-bottom: 1px;
+}
+
+.blockSnakeTail {
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  background-color: black;
+  border: 1px solid black;
+  margin-right: 1px;
+  margin-bottom: 1px;
+}
+
+.blockSnakeHead {
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  background-color: green;
+  border: 1px solid green;
+  margin-right: 1px;
+  margin-bottom: 1px;
+}
+
+.blockSnakeRodent {
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  background-color: red;
+  border: 1px solid red;
+  margin-right: 1px;
+  margin-bottom: 1px;
+}
